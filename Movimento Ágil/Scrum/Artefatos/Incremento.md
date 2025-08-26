@@ -1,0 +1,1 @@
+Soma de todos os itens concluídos, que deve estar em um estado utilizável (_Done_).

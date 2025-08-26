@@ -1,0 +1,1 @@
+subconjunto do Product Backlog escolhido para a Sprint, com plano para entrega.

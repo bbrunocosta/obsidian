@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24f59f3f664988ae",
+        "id": "8ae2e1a4681c46b9",
         "type": "tabs",
         "children": [
           {
-            "id": "e36faac28fb8d30f",
+            "id": "e87ceacba4f7fd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID/1 - Single Responsibility Principle.md",
-                "mode": "source",
+                "file": "Arquitetura de Computadores/🖥️ Firmware & Boot/🖥️ Firmware & Boot.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Single Responsibility Principle"
+              "title": "🖥️ Firmware & Boot"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -73,12 +73,22 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "3ebd5bdfe86fc3e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "4d53f7ae1a10c363",
@@ -94,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID/1 - Single Responsibility Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1 - Single Responsibility Principle"
+              "title": "Backlinks"
             }
           },
           {
@@ -160,42 +169,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "3a375a060c058716",
+  "active": "e87ceacba4f7fd73",
   "lastOpenFiles": [
-    "teste.cs",
-    "Movimento Ágil/Agile.md",
-    "OOP/Abstração.md",
-    "OOP/Programação Orientada à Objetos.md",
-    "OOP/Polimorfismo.md",
-    "OOP/Herança.md",
-    "OOP/Encapsulamento.md",
-    "SOLID/SOLID.md",
     "SOLID/2 - Open-Closed Principle.md",
     "SOLID/1 - Single Responsibility Principle.md",
-    "_NEXT/Event Drivem Development",
-    "_NEXT/Sem título",
-    "_NEXT/Clean Code",
-    "_NEXT/DesignPatterns",
-    "_NEXT/BDD",
-    "_NEXT/TDD",
-    "_NEXT",
-    "Sem título.md",
-    "_NEXT/DDD",
+    "🔌 Entrada/Saída (I/O).md",
+    "Arquitetura de Computadores/Arquitetura de Computadores.md",
+    "🔌 Entrada/Saída (I",
+    "🔌 Entrada",
+    "Arquitetura de Computadores/🧠 CPU.md",
+    "OOP/Abstração.md",
+    "Arquitetura de Computadores/💾 Memória.md",
+    "Arquitetura de Computadores/🖥️ Firmware & Boot/🖥️ Firmware & Boot.md",
+    "Movimento Ágil/XP (Extreme Programming)/XP (Extreme Programming).md",
+    "Movimento Ágil/Movimento Agil.md",
     "SOLID/5 - Dependency Inversion Principle.md",
+    "SOLID/SOLID.md",
     "SOLID/4 - Interface Segregation Principle.md",
     "SOLID/3 - Liskov Substitution Principle.md",
-    "Movimento Ágil",
-    "OOP",
-    "Open-Closed Principle.md",
-    "**Open-Closed Principle**.md",
+    "OOP/Herança.md",
+    "OOP/Encapsulamento.md",
+    "OOP/Polimorfismo.md",
+    "Movimento Ágil/Scrum/Artefatos/Product Backlog.md",
+    "Arquitetura de Computadores/🖥️ Firmware & Boot",
+    "Movimento Ágil/Scrum/Ritos/Ritos (Eventos).md",
+    "Movimento Ágil/Scrum/Ritos/1 - Sprint.md",
+    "Movimento Ágil/Scrum/Papéis/Papéis.md",
+    "Movimento Ágil/Scrum/Artefatos/Artefatos.md",
+    "Movimento Ágil/Kanban/Kanban.md",
+    "Movimento Ágil/Scrum/Papéis/Scrum Master.md",
+    "Movimento Ágil/Scrum/Scrum.md",
+    "Movimento Ágil/Scrum/Artefatos/Incremento.md",
+    "Movimento Ágil/Scrum/Ritos",
+    "Movimento Ágil/Scrum/Papéis",
+    "Movimento Ágil/Scrum/Artefatos",
+    "Untitled.canvas",
+    "Movimento Ágil/XP (Extreme Programming)",
+    "Movimento Ágil/Kanban",
+    "Movimento Ágil/Scrum",
+    "Arquitetura de Computadores",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

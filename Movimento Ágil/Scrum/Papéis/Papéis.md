@@ -1,0 +1,3 @@
+- **[[Product Owner (PO)]]**
+ - **[[Scrum Master]]**
+- **[[Time de Desenvolvimento (Developers)]]**

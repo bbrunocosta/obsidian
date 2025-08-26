@@ -1,0 +1,1 @@
+Reunião rápida diária (~15 min) para alinhar progresso.

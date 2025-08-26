@@ -1,0 +1,1 @@
+Representa os interesses do cliente  e define prioridades no *Product Backlog*.

@@ -1,0 +1,1 @@
+Definir o que será feito na Sprint e como. (Até 8 horas)

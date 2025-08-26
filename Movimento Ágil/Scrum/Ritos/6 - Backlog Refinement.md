@@ -1,0 +1,1 @@
+Não é rito oficial, mas é prática recomendada para preparar histórias para as próximas sprints.

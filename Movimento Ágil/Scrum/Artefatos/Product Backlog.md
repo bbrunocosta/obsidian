@@ -1,0 +1,1 @@
+Lista priorizada de tudo que pode ser feito no produto.

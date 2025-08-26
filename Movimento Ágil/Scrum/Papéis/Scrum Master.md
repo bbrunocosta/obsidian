@@ -1,0 +1,1 @@
+ Garante  que o Scrum está sendo seguido, remove impedimentos e atua como facilitador.
